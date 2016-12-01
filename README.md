@@ -3,7 +3,7 @@ simple number easing component
 
 # How to use
  ## Use in View
- ```javascript:
+ ```javascript
  render() {
     return (
       <View style={styles.container}>
