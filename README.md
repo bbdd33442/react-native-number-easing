@@ -1,8 +1,8 @@
 # react-native-number-easing
 simple number easing component
 
-#How to use
- ##Use in View
+# How to use
+ ## Use in View
  ```javascript:
  render() {
     return (
